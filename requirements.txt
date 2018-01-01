@@ -1,0 +1,5 @@
+python-twitter==3.3
+dynaconf==0.5.2
+pytesseract==0.1.7
+pillow=4.3.0
+wget==3.2
